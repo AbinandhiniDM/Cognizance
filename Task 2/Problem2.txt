@@ -1,0 +1,22 @@
+Pseudocode for Fibonacci series
+
+For printing fibonacci series,we initialize starting numbers
+0 and 1 and add the consecutive numbers inside while loop
+which executes till the limit given by user.
+
+Pseudocode:
+
+Step 1: Start
+Step 2: Declare variable a,b,sum,n,i  
+Step 3: Initialize variable a=0, b=1,sum=0, i=2  
+Step 4: Input n from user  
+Step 5: Print a and b 
+ 
+Step 6: 
+while i<=n           
+     sum=a+b           
+     a=b, b=sum    
+     i=i+1
+     print sum 
+
+Step 7: Stop
