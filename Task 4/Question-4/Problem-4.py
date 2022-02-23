@@ -3,7 +3,7 @@
 p=input("Enter a number:")
 
 # Method 1
-# Using string slicing
+# Using string reversing
 print()
 print("Printing the result using Method 1")
 p1=p[::-1]
